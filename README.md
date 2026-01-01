@@ -2,8 +2,6 @@
 
 简单、优雅的封面图生成工具。纯客户端运行，保护您的隐私。
 
-[GitHub 仓库](https://github.com/afoim/easy_cover)
-
 ## ✨ 特性
 
 *   **纯客户端生成**：所有图片处理均在浏览器完成，无需上传服务器。
@@ -31,7 +29,7 @@
 
 ```bash
 git clone https://github.com/afoim/easy_cover.git
-cd easy_cover/easy-cover-next
+cd easy_cover
 ```
 
 2.  **安装依赖**
